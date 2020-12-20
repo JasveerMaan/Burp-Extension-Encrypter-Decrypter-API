@@ -1,1 +1,1 @@
-# Burp-Extension-Encrypter-Decrypter-Python-Module-Request-
+# Burp-Extension-Encrypter-Decrypter(API)
